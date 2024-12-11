@@ -19,13 +19,15 @@ This project explores the SGCN-LSTM model, a hybrid approach to traffic flow pre
 - **Applications**: Traffic signal optimization, urban planning, and emergency navigation.
 
 # Instructions
-- **Presentation**: Open the PowerPoint file `SGCN_LSTM_Presentation.pptx` for a detailed walkthrough.
+- **Presentation**: Open the PowerPoint file `SGCN_LSTM_Presentation.pptx` for a detailed walkthrough. or
+   https://www.slideshare.net/slideshow/revolutionizing-traffic-flow-predictions-with-sgcn-lstm/274001382
+  
 - **Demo Video Link** :
-- 
+  
 - **Article**: Visit
--
+
 -   https://medium.com/@roshini.joga/revolutionizing-traffic-predictions-with-sgcn-lstm-a-hybrid-approach-to-smart-mobility-8a580dca6b23
--   for in-depth insights.
+    for in-depth insights.
 
 ---
 
