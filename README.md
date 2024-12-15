@@ -22,7 +22,7 @@ This project explores the SGCN-LSTM model, a hybrid approach to traffic flow pre
 - **Presentation**: Open the PowerPoint file `SGCN_LSTM_Presentation.pptx` for a detailed walkthrough. or
    https://www.slideshare.net/slideshow/revolutionizing-traffic-flow-predictions-with-sgcn-lstm/274001382
   
-- **Demo Video Link** :
+- **Demo Video Link** :https://drive.google.com/file/d/1M1EiFS9B6nAAEueToUCuwG2uhjUYiBv1/view?usp=sharing
   
 - **Article**: Visit
 
